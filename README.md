@@ -13,6 +13,7 @@ Edit `./schema/calculator.thrift` then
 
 ```sh
 cd ruby
+bundle
 ruby server.rb
 ```
 ```sh
